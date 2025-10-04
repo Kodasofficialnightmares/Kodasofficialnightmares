@@ -1,5 +1,6 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1354540237325340734/1424015135042703412/image.png?ex=68e268f1&is=68e11771&hm=9a50ab6075d0e1210212ff2b84ea44654ffb23de47092f2f063bd437ef5b73ca&=&format=webp&quality=lossless&width=1104&height=750></p>> 
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 𝐑𝐨𝐬𝐞'𝐬 𝐏𝐫𝐨𝐟𝐢𝐥𝐞
+<p align="center"> <img src=https://media.discordapp.net/attachments/1354540237325340734/1424015135042703412/image.png?ex=68e268f1&is=68e11771&hm=9a50ab6075d0e1210212ff2b84ea44654ffb23de47092f2f063bd437ef5b73ca&=&format=webp&quality=lossless&width=750&height=750></p>> 
+
+<div align="center"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 𝐑𝐨𝐬𝐞'𝐬 𝐏𝐫𝐨𝐟𝐢𝐥𝐞
   
 ✦✦✦ ✦✦✦ ✦✦✦
 

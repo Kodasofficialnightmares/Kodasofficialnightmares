@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1354540237325340734/1424015135042703412/image.png?ex=68e268f1&is=68e11771&hm=9a50ab6075d0e1210212ff2b84ea44654ffb23de47092f2f063bd437ef5b73ca&=&format=webp&quality=lossless&width=750&height=750></p>> 
+<p align="center"> <img src=https://media.discordapp.net/attachments/1354540237325340734/1424017673909436416/image.png?ex=68e26b4e&is=68e119ce&hm=9942bd6e5f005ffae691fa381497f5a28ecd21467a168e3002d0eb48b87b8e22&=&format=webp&quality=lossless&width=1302&height=596></p>> 
 
 <div align="center"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 𝐑𝐨𝐬𝐞'𝐬 𝐏𝐫𝐨𝐟𝐢𝐥𝐞
   

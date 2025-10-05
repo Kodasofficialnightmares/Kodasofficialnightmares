@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1354540237325340734/1424017673909436416/image.png?ex=68e26b4e&is=68e119ce&hm=9942bd6e5f005ffae691fa381497f5a28ecd21467a168e3002d0eb48b87b8e22&=&format=webp&quality=lossless&width=1302&height=596></p> 
+<p align="center"> <img src=https://media.discordapp.net/attachments/1340077125017010217/1424451503351136296/555934177_24587919304193669_961074252024228664_n.png?ex=68e3ff57&is=68e2add7&hm=9b14f30f71d030a6cc7215a93a6d8e4559c3d7e527ca39c9dd44fbd764f694f6&=&format=webp&quality=lossless&width=1020&height=1020></p> 
 
 <div align="center"> Sheeper made by @Gweystars <3 | Sheeper Design made by me!
 

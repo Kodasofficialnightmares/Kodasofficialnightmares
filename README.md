@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://i.imgur.com/GmPhBoO_d.webp?maxwidth=250&fidelity=grand>
+<p align="center"> <img src=https://i.imgur.com/GmPhBoO_d.webp?maxwidth=350&fidelity=grand>
 
 <div align="center"> Sheeper made by @Gweystars <3 | Sheeper Design made by me!
 

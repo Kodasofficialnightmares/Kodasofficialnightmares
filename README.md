@@ -1,6 +1,6 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1439312426750181406/1440424424720568511/image.png?ex=6928a748&is=692755c8&hm=c06b0918e875bf0025a71779978cf053f6beff3e3939f004934b5523a4614926&=&format=webp&quality=lossless&width=1496&height=353>
+<p align="center"> <img src=https://media.discordapp.net/attachments/1439312426750181406/1440424424720568511/image.png?ex=6928a748&is=692755c8&hm=c06b0918e875bf0025a71779978cf053f6beff3e3939f004934b5523a4614926&=&format=webp&quality=lossless&width=1250&height=353>
 
-<div align="center"> Sheeper made by @Gweystars <3 | Sheeper Design made by me!
+<div align="center"> 450th Line ✦ Love you all <33
 
 
 <div align="center"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 𝐑𝐨𝐬𝐞'𝐬 𝐏𝐫𝐨𝐟𝐢𝐥𝐞

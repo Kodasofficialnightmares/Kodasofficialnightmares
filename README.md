@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1441124789283721217/1443362133948629063/image.png?ex=6928cb3d&is=692779bd&hm=0915809d6ffb47e07aa8a5fbe86dc4c77681642551fa52a8df39b732bbb27783&=&format=webp&quality=lossless&width=1028&height=254/>
+<p align="center"> <img src=https://media.discordapp.net/attachments/1441124789283721217/1443362133948629063/image.png?ex=6928cb3d&is=692779bd&hm=0915809d6ffb47e07aa8a5fbe86dc4c77681642551fa52a8df39b732bbb27783&=&format=webp&quality=lossless&width=1028&height=254>
 
 <div align="center"> 450th Line ✦ Love you all <33
 

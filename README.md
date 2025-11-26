@@ -24,4 +24,4 @@
 
 <div align="center"> 𝐈 𝐬𝐞𝐞 𝐲𝐨𝐮 𝐚𝐥𝐥, 𝐲𝐨𝐮'𝐫𝐞 𝐛𝐞𝐢𝐧𝐠 𝐜𝐨𝐮𝐧𝐭𝐞𝐝 :𝐃
   
-![](https://komarev.com/ghpvc/?username=Kodasofficialnightmares&color=grey&label=★Lurkers+counted)
+![](https://komarev.com/ghpvc/?username=Kodasofficialnightmares&color=blue&label=★Lurkers+counted)

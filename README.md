@@ -1,4 +1,5 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1439312426750181406/1440424424720568511/image.png?ex=6928a748&is=692755c8&hm=c06b0918e875bf0025a71779978cf053f6beff3e3939f004934b5523a4614926&=&format=webp&quality=lossless&width=500&height=3500>
+<p align="center"> <img src=<img width="193" height="226" alt="image" src="https://github.com/user-attachments/assets/4e328302-94b2-463e-b3fc-83c485241fd4" />
+>
 
 <div align="center"> 450th Line ✦ Love you all <33
 

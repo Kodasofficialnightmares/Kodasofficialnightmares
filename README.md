@@ -21,7 +21,5 @@
 𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐂+𝐇 𝐰𝐡𝐞𝐧 𝐧𝐞𝐞𝐝𝐞𝐝. 𝐖𝐡𝐢𝐬𝐩𝐞𝐫𝐬 𝐚𝐧𝐝 𝐜𝐫𝐨𝐰𝐧𝐬 𝐚𝐫𝐞 𝐚-𝐨𝐤𝐚𝐲!
 
 ✦✦✦ ✦✦✦ ✦✦✦
-
-<div align="center"> 𝐈 𝐬𝐞𝐞 𝐲𝐨𝐮 𝐚𝐥𝐥, 𝐲𝐨𝐮'𝐫𝐞 𝐛𝐞𝐢𝐧𝐠 𝐜𝐨𝐮𝐧𝐭𝐞𝐝 :𝐃
   
-![](https://komarev.com/ghpvc/?username=Kodasofficialnightmares&color=blue&label=Lurkers+counted)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rkwdrmws6y7zc7tpxmnx2ghl6i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=4e51b1)](https://github.com/kittinan/spotify-github-profile)

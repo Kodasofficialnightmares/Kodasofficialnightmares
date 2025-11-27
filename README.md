@@ -22,4 +22,8 @@
 
 ✦✦✦ ✦✦✦ ✦✦✦
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rkwdrmws6y7zc7tpxmnx2ghl6i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=4e51b1)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkwdrmws6y7zc7tpxmnx2ghl6i&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=4e51b1&bar_color_cover=false&mode=dark">
+  </a>
+</p>

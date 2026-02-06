@@ -1,6 +1,6 @@
-<p align="center"> <img src=https://media.discordapp.net/attachments/1441124789283721217/1443362392036606123/image.png?ex=6928cb7a&is=692779fa&hm=83593fd90e9d23d9e3ce254c8a21ebd8f93812c4ed32ba93d1023882a9882f63&=&format=webp&quality=lossless&width=1517&height=234>
+<p align="center"> <img src=[https://media.discordapp.net/attachments/1441124789283721217/1443362392036606123/image.png?ex=6928cb7a&is=692779fa&hm=83593fd90e9d23d9e3ce254c8a21ebd8f93812c4ed32ba93d1023882a9882f63&=&format=webp&quality=lossless&width=1517&height=234>
 
-<div align="center"> 450th Staff Rule! ✦ Love you all <33
+<div align="center"> My Oomfs Rule! ✦ Love you all <33
 
 ![](https://komarev.com/ghpvc/?username=Kodasofficialnightmares&style=plastic)
 

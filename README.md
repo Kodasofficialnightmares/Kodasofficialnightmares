@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://i.pinimg.com/736x/04/29/73/04297320fb7e250ef7930fac0f038e8c.jpg>
+<p align="center"> <img src=https://media.discordapp.net/attachments/1352006815071735938/1469432780105449595/image.png?ex=6987a36b&is=698651eb&hm=64af94c1003ee64eed87f799b8bb8a6d3152dbf31545892c70367c682dcebef0&=&format=webp&quality=lossless&width=1142&height=186>
 
 <div align="center"> My Oomfs Rule! ✦ Love you all <33
 

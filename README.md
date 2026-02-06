@@ -2,7 +2,7 @@
 
 <div align="center"> My Oomfs Rule! ✦ Love you all <33
 
-![](https://komarev.com/ghpvc/?username=Kodasofficialnightmares&color=#000000)
+![](https://komarev.com/ghpvc/?username=Kodasofficialnightmares&color=darkgrey)
 
 
 <div align="center"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 𝐑𝐨𝐬𝐞'𝐬 𝐏𝐫𝐨𝐟𝐢𝐥𝐞
